@@ -37,7 +37,7 @@ A simple and intuitive notes app built with Flutter. The app allows users to cre
 
 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/your-username/flutter-notes-app.git
+   git clone https://github.com/isuru2024/My-Simple-Note.git
    cd flutter-notes-app
    ```
 2. **Install dependencies**:
